@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 Bonjour je suis Jérôme POMONTI. Développeur FullStack :) Aprés 15 années à travailler en tant que graphiste/Ui designer Freelance, j'ai intégré Le Wagon en 2022 pour devenir développeur et maîtriser toute la chaîne de production, je travail avec Ruby, Ruby on rails, sass, postgresql... Je vous laisse découvrir mes projets ci-dessous.",
+    "section_name": {
+      "about": "A propos",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Watch list",
+      "startDate": "2022",
+      "description": "Le projet Watch list à été réalisé durant ma formation au Wagon, réalisé avec Ruby on Rails, elle contient 3 tables dans sa base de données afin de stocker des film, de créer des listes, et afficher des bookmarks.",
+      "images": [
+        "images/portfolio/animal-shelter/c1.png",
+        "images/portfolio/animal-shelter/c2.png"
+      ],
+      "url": "https://jpomontiwatchlist.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        }
+      ]
+    },
+    {
+      "title": "Rent A Game",
+      "startDate": "2022",
+      "description": "Création d'une application web de location sur le modéle AirBnB, techno: Ruby on rails, avec création de base de données mise en place d'une map interactive, gestion d'utilisateurs avec mise en location de jeu de société et reservation via calendrier",
+      "images": [
+        "images/portfolio/photography/c3.png",
+        "images/portfolio/photography/c4.png"
+      ],
+      "url": "https://rent-a-game-le-wagon.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        }
+      ]
+    },
+    {
+      "title": "Livre de recette",
+      "startDate": "2022",
+      "description": "Livre de recette réalisé en react avec l'api THEMealDB",
+      "images": [
+        "images/portfolio/adventure/c5.png",
+        "images/portfolio/adventure/c6.png"
+      ],
+      "url": "https://cookingappreact.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "Sass"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "title": "Fullstack Developer",
+      "years": "2022 - present",
+      "mainTech": ["Ruby","Ruby on rails"],
+      "technologies": [
+        "Html 5",
+        "Sass",
+        "JavaScript",
+        "Bootstrap",
+        "Ruby",
+        "Ruby on Rails",
+        "Git",
+        "react"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Graphiste Formateur",
+      "years": "09.2015 - 06.2022",
+      "mainTech": ["Designer"],
+      "technologies": [
+        "L ecole du design Noumea",
+        "Tuto.com",
+        "Youtube",
+        "Province sud - Noumea"
+      ]
+    },
+    {
+      "company": "Sportfive",
+      "title": "Graphiste",
+      "years": "07.2006 - 09.2015",
+      "mainTech": ["Designer"],
+      "technologies": [
+        "Photoshop",
+        "Illustrator",
+        "Indesign",
+        "After effect",
+        "Figma"
+      ]
+    }
+  ]
+}
